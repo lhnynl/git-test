@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("xiu gai hot-fix fen zhi");
         System.out.println("xiu gai master fen zhi");
         System.out.println("xiu gai hot-fix fen zhi 2");
+        System.out.println("push test");
     }
 }
