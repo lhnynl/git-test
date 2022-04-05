@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("hello git git git");
         System.out.println("xiu gai hot-fix fen zhi");
         System.out.println("xiu gai master fen zhi");
+        System.out.println("xiu gai hot-fix fen zhi 2");
     }
 }
